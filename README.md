@@ -12,3 +12,5 @@ Este proyecto tiene como objetivo raspar la web [usatvgo.live](usatvgo) para obt
    ```bash
    git clone https://github.com/vico32/USTVNowLiveScraper.git
    cd USTVNowLiveScraper
+   pip install -r requirements.txt
+
