@@ -1,6 +1,6 @@
 # USTVNowLiveScraper
 
-Este proyecto tiene como objetivo raspar la web [usatvgo.live](usatvgo) para obtener:
+Este proyecto tiene como objetivo raspar la web [usatvgopointlive](usatvgo) para obtener:
 - La lista de canales disponibles.
 - La URL del logo (imagen) de cada canal.
 - La URL del directo (streaming) de cada canal.
