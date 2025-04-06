@@ -1,4 +1,3 @@
-```python
 from scraper.channels import get_channels
 from scraper.channel_detail import get_channel_details
 
