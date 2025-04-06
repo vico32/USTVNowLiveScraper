@@ -1,6 +1,7 @@
 # USTVNowLiveScraper
 
-Este proyecto tiene como objetivo raspar la web [usatvgopointlive](usatvgo) para obtener:
+Este proyecto tiene como objetivo raspar la web [usatvgo.live](https://usatvgo.live) para obtener:
+
 - La lista de canales disponibles.
 - La URL del logo (imagen) de cada canal.
 - La URL del directo (streaming) de cada canal.
@@ -9,9 +10,11 @@ Este proyecto tiene como objetivo raspar la web [usatvgopointlive](usatvgo) para
 ## Instalación
 
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/vico32/USTVNowLiveScraper.git
-   cd USTVNowLiveScraper
-   pip install -r requirements.txt
-   python3 main.py
+
+```bash
+git clone https://github.com/vico32/USTVNowLiveScraper.git
+cd USTVNowLiveScraper
+pip install -r requirements.txt
+python3 main.py
+```
 
